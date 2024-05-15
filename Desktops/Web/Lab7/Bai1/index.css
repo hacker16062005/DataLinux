@@ -7,18 +7,20 @@
 }
 
 .vmenu a {
-    background: url('bullet_hover.gif') no-repeat 10px center;
+    background: url('../Bai1/Gif/coin.gif') no-repeat 10px center;
+    background-size: 20px;
     display: block;
     border-bottom: 1px dotted orangered;
     color: orangered;
     font-variant: small-caps;
     font-size: larger;
     text-decoration: none;
-    padding: 8px 5px 8px 30px;
+    padding: 8px 5px 8px 40px;
 }
 
 .vmenu a:hover {
-    background: url('bullet.png') no-repeat 10px center;
+    background: url('https://i.pinimg.com/originals/9b/be/b1/9bbeb1fd7ed5f7634b99a275bd968ea2.gif') no-repeat 10px center;
+    background-size: 30px;
     border-bottom: 1px dotted white;
     background-color: orangered;
     color: white;
