@@ -1,0 +1,10 @@
+ #!/bin/bash
+ flatpak kill com.usebottles.bottles
+
+flatpak run --command=bottles-cli com.usebottles.bottles run -b Zalo -p Zalo
+
+tuyến tính
+hồi quy
+knn
+native bayes
+kmean
